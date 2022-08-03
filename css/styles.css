@@ -1,0 +1,13 @@
+.intro {
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+.intro h1{
+  color: white;
+}
+.intro h2{
+  color: grey;
+}
+body{
+  background-color: darkgrey;
+}
